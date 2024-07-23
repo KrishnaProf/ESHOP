@@ -49,7 +49,7 @@ const Navbar = () => {
               </ul>
             </div>
           </div>
-          <div>{/* navbr Right section */}</div>
+          <div>{/* navbr Right section  */}</div>
         </div>
       </div>
     </div>
