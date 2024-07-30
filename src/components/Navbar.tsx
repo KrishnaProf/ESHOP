@@ -54,6 +54,7 @@ const Navbar = () => {
               </ul>
             </div>
           </div>
+<<<<<<< HEAD
           {/* navbr Right section */}
           <div className="flex justify-between items-center gap-4">
             <div className="relative group hidden sm:block ">
@@ -67,6 +68,9 @@ const Navbar = () => {
               </div>
             </button>
           </div>
+=======
+          <div>{/* navbr Right section  */}</div>
+>>>>>>> 0674180a331f76bdaa0a76aff66433f85632f69c
         </div>
       </div>
     </div>
